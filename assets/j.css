@@ -1,0 +1,30 @@
+  body{
+    margin: 0;
+    background-color: rgb(193 155 176);
+  }
+  #email{
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+    border-color: rgb(193 155 176);
+    height: 80px;
+    font-size: 30px;
+    font-weight:bolder;
+    margin-top: 20px;
+    
+  }
+
+  #Password{
+    box-shadow: 6px 6px 10px -1px rgba(0, 0, 0, 0.15),
+    -6px -6px 10px -1px rgba(255, 255, 255, 0.7);
+    border-color: rgb(193 155 176);
+    font-weight:bolder;
+    height: 80px;
+    font-size: 30px;
+  }
+
+  #button{
+    text-align: center;
+  }
+  .form-control{
+    text-align: center;
+  }
